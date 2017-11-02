@@ -3,9 +3,15 @@ Angular2 website with login
 
 ### Frontend
 
-install @angular/cli in global modules - Run "npm install -g @angular/cli"__
+install @angular/cli in global modules - Run "npm install -g @angular/cli"
+
+
 npm install
+
+
 After installing node modules - Run "ng serve"
+
+
 The frontend will run on port 4200
 
 
