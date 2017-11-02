@@ -18,5 +18,9 @@ The frontend will run on port 4200
 ### Backend
 
 npm install
+
+
 After installing node modules - Run "node server.js"
+
+
 The backend will run on port 1208
